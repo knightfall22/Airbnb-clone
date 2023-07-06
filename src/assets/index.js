@@ -25,9 +25,11 @@ import likedHeart from './liked_heart.svg'
 import arrow from './arrow.svg'
 import dollar from './dollar.svg'
 import popular from './popular.svg'
+import map from './map.svg'
 
 export {
     logo,
+    map,
     dollar,
     search,
     planet,
